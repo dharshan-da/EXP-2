@@ -49,6 +49,7 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+
 |S.NO|VOLTAGE(V)|CURRENT(A)|
  |:-----:|:-----:|:------------:|
  |1|0|0|
